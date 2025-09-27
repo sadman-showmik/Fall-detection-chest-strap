@@ -5,6 +5,13 @@ IoT-enabled wearable device for fall detection and heart rate monitoring using A
 This project is a **wearable health monitoring system** designed to detect falls and measure heart rate (bpm) & blood oxygen (SpO₂) in real time.  
 It uses **IoT connectivity (Blynk platform)** to send alerts and display live data remotely, making it suitable for elderly care, health monitoring, and personal safety applications.  
 
+##  🛡️ Team Members
+- Niko Salmelainen (Electronics Engineering student, Metropolia UAS)	Niko.Salmelainen@metropolia.fi 
+- Maria Antonova	(Electronics Engineering student, Metropolia UAS)	Maria.Antonova@metropolia.fi
+- Jingyao Wang	(Electronics Engineering student, Metropolia UAS)	Jingyao.Wang@metropolia.fi
+- B M Sadman Showmik (Electronics Engineering student, Metropolia UAS) sadman.showmik@metropolia.fi
+
+
 ## ✨ Key Features  
 - ✅ Fall Detection using **MPU6050 accelerometer & gyroscope**  
 - ❤️ Heart Rate & SpO₂ Monitoring with **MAX30102 sensor**  
